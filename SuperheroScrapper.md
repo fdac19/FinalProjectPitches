@@ -1,3 +1,5 @@
+The Superhero Scrapper:
+
 This project is fairly simple, but still in development. If anyone would like to work on
 this and add on, then I will gladly make this my final project too!
 
