@@ -1,8 +1,8 @@
 # FinalProjectPitches
 
-Deposit here a brief description of each final project that is proposed
+Deposit here a brief description of each final project that is proposed as an .md file
 
-Please provide a title
+Please provide a title (use it for the .md file as well)
 
 A sentence describing the objective and methods
 
