@@ -1,5 +1,7 @@
 "Review Bomb" Pitch:
 
+3 more members needed
+
 The summary is as follows: Look on video game and/or movie websites (still debating) that allow user reviews and determine
 whether a review with a low score is legitimate or a review bomb.
 
