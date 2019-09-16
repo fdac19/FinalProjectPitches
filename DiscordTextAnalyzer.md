@@ -5,4 +5,4 @@ text analysis on all the messages sent currently and in the past by different me
 with would be to see what are the most sent messages and emotes per user. Then more advanced technics could be preformed with 
 looking at overall text info for the server and interesting ways to visualize this.
 
-Team members: Anna-Maria Nau (NetID: anau), Christoph Metzner (NetID: cmetzner)
+Team members: Ethan Hicks (NetID: ehicks8), Anna-Maria Nau (NetID: anau), Christoph Metzner (NetID: cmetzner), Brandon Yen (NetID: byen)
