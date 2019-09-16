@@ -1,3 +1,5 @@
+Project Music Music Music
+
 This project is fairly straightforward. We're going to do something with music lyrics and other parameters. Right now, we're sort of thinking that we want to try and predict a song's genre, year, and artist. This is hardly final. We're defintely going to try and expand the project's scope as we go.
 
 Our current project plan:
